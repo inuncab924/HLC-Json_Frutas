@@ -1,31 +1,31 @@
 [
   {
+    "id": 1,
     "name": "Manzana",
-    "description": "Fruta roja, verde o amarilla, crujiente y dulce.",
-    "image": "https://via.placeholder.com/150?text=Manzana",
-    "origin": "Europa",
-    "season": "Invierno"
+    "category": "Fruta",
+    "price": 1.99,
+    "image": "https://orchard.es/wp-content/uploads/2016/01/manzana-royal.jpg"
   },
   {
+    "id": 2,
     "name": "Plátano",
-    "description": "Fruta amarilla, suave, rica en potasio.",
-    "image": "https://via.placeholder.com/150?text=Plátano",
-    "origin": "Sudamérica",
-    "season": "Todo el año"
+    "category": "Fruta",
+    "price": 0.99,
+    "image": "https://img.freepik.com/psd-gratis/caracteristicas-aisladas-platano_23-2151170924.jpg?t=st=1733938637~exp=1733942237~hmac=f5ae510ebdce0ab1a9b53e36fcce3a7f626e6d4c0f919b033df3c53c3a8f411f&w=740"
   },
   {
+    "id": 3,
     "name": "Naranja",
-    "description": "Fruta cítrica, jugosa y rica en vitamina C.",
-    "image": "https://via.placeholder.com/150?text=Naranja",
-    "origin": "España",
-    "season": "Invierno"
+    "category": "Fruta",
+    "price": 1.49,
+    "image": "https://www.ammarket.com/wp-content/uploads/2021/12/NARANJA_MESA_AMMARKET.COM_5.jpg"
   },
   {
+    "id": 4,
     "name": "Fresa",
-    "description": "Fruta pequeña, roja y dulce, ideal para postres.",
-    "image": "https://via.placeholder.com/150?text=Fresa",
-    "origin": "Europa",
-    "season": "Primavera"
+    "category": "Fruta",
+    "price": 2.99,
+    "image": "https://www.fresasnm.com/wp-content/uploads/2020/10/fresas-nuevos-materiales-variedad-fresa-primoris-a-1024x640.jpg"
   }
- 
+
 ]
